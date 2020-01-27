@@ -4,6 +4,7 @@ Diabetes mellitus is a chronic disease characterized by hyperglycemia. It may ca
 
 Keywords
 ------
+
 - Diabetes Mellitus
 - Decision Tree
 - Machine learning
@@ -11,3 +12,8 @@ Keywords
 - Artificial Neural Network (ANN)
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
+
+Note
+---------
+
+**IF YOU FIND ANY SEVERE BUGS PLEASE KINDLY [PULL REQUEST](https://github.com/mrmohim/Predicting-Diabetes-Mellitus-With-Machine-Learning-Techniques/pulls).**
